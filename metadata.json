@@ -1,0 +1,6 @@
+{
+  "name": "AileVakti",
+  "description": "TÜBİTAK 2204-B Değerler Eğitimi kapsamında Aile İçi Nitelikli Zaman ve Etkinlik Asistanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
